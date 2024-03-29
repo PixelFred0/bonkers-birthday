@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bonkers-birthday/static/css/main.c966d557.css",
+    "main.js": "/bonkers-birthday/static/js/main.43577cce.js",
+    "static/js/453.afc7deef.chunk.js": "/bonkers-birthday/static/js/453.afc7deef.chunk.js",
+    "index.html": "/bonkers-birthday/index.html",
+    "main.c966d557.css.map": "/bonkers-birthday/static/css/main.c966d557.css.map",
+    "main.43577cce.js.map": "/bonkers-birthday/static/js/main.43577cce.js.map",
+    "453.afc7deef.chunk.js.map": "/bonkers-birthday/static/js/453.afc7deef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c966d557.css",
+    "static/js/main.43577cce.js"
+  ]
+}
