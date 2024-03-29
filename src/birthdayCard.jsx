@@ -6,7 +6,7 @@ const birthdayCard = () => {
     <>
       <div className="birthdayCard">
         <div className="cardFront">
-          <h3 className="happy">HAPPY BIRTHDAY</h3>
+          <h3 className="happy">HAPPY BIRTHDAY bonkers</h3>
           <div className="balloons">
             <div className="balloonOne" />
             <div className="balloonTwo" />
@@ -19,8 +19,8 @@ const birthdayCard = () => {
           <p>Lieber Sascha,</p>
           <p>
             herzlichen Glückwunsch zum Geburtstag! Ich hoffe du hast ein geiles
-            Geburtstags Wochenende und fährst ordentlich Fahrrad. Vieleicht
-            können wir ja mal ein Tour zusammen machen. Feier schön!
+            Geburtstags-Wochenende und fährst ordentlich Fahrrad. Vielleicht
+            können wir ja mal eine Tour zusammen machen. Feier schön!
           </p>
           <p className="name">Freddy</p>
         </div>

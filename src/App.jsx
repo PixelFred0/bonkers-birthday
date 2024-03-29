@@ -18,8 +18,8 @@ function App() {
         <>
           <div className=" flex flex-col items-center space-y-5">
             <div className="flex flex-col items-center">
-              <h1 className="text-3xl font-bold">Alles Gute zum Geburtstag!</h1>
-              <h1 className="text-2xl font-bold"> Sascha </h1>
+              <h1 className="text-3xl font-bold">Karte anklicken!</h1>
+              <h1 className="text-2xl font-bold"> ⬇️ </h1>
             </div>
             <BirthdayCard />
           </div>
